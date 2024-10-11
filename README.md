@@ -44,7 +44,7 @@ This analysis tracks monthly revenue for each marketing channel, showing year-ov
 
 The results from the above queries are visualized in a Looker dashboard, providing an intuitive interface to explore key metrics such as total ROI, revenue trends, and conversion rates across various dimensions.
 
-[View the Live Dashboard here](https://lookerstudio.google.com/s/g42tsUwjO_Q)
+[View the Live Dashboard here](https://lookerstudio.google.com/reporting/ffb1c928-ead3-4474-b6d8-f0a4ac6884a0)
 
 ## Technical Components
 
